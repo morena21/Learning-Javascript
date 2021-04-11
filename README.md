@@ -1,7 +1,11 @@
 # Roadmap - JavaScript
 
 - dichiarazione di variabili 
-  -  [link 1](https://www.w3schools.com/js/js_variables.asp)
+
+  [] test none
+  [ ] test none 2
+  [x] test yes
+  - [link 1](https://www.w3schools.com/js/js_variables.asp)
 - Operatori 
   - [link 1](https://www.w3schools.com/js/js_operators.asp)
   - [link 2](https://www.w3schools.com/js/js_arithmetic.asp)
