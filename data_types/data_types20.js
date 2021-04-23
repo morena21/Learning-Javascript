@@ -16,3 +16,13 @@ function filtrare(arr3){
 }
 console.log(arr3.filter(filtrare));
 
+
+var arr2= [12 , 23, 45, 2, 3, 67, 4, 3, 2];
+ var a = 0;
+for(var i = 0 ; i < arr2.length ; i++){
+
+   
+    a = a + arr2[i];
+  
+}
+  console.log(a);
