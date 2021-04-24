@@ -9,8 +9,8 @@ function somma(arr1){
       return a;
   }
 
-  var risultato = somma(arr1);
-  console.log(risultato);
+var risultato = somma(arr1);
+console.log(risultato);
 
 
 var arr2= [12 , 23, 45, 2, 3, 67, 4, 3, 2];
