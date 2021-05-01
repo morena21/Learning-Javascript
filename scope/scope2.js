@@ -22,13 +22,3 @@ var arr2=[2,3,4,5,6,7,8,9];
         }
     }
     
-
-
-var arr1 = ["giovanni", "mario" , 34, 100, "ciao", 45];    // DA FINIRE
-console.log(parseInt.arr1);
-function filtrare(arr1){
-    for(var i= 0 ; i < arr1.length ; i++){
-
-    }
-}
-
