@@ -1,16 +1,17 @@
-var arr1 = ["giovanni", "mario" , 34, 100, "ciao", 45];  
+var arr1 = [3,"andrea","giovanni", "mario", "giorgio",34, 100, "ciao", 45,"alessandra", "paola", 56];  
 var arr2= 0;
 
-console.log(parseInt.arr1);
-function filtrare(arr1){
-    for(var i= 0 ; i < arr1.length ; i++){
-    if(typeof arr1[i] == "string"){
-        var j= 0;
-        arr2[j] = arr1[i];
-       j++;
-    } 
+
+function filtrare(arr1 = []){
+    for(var i = 0 ; i < arr1.length ; i++){
+        var tipo = typeof (arr1[i]);
+    if(tipo == "string"){
+        arr1.splice(i,1);
+        
+      }
+      
     }
-    return arr2[j];
+    return arr1;
 }
 
 console.log(filtrare(arr1));

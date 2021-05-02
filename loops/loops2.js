@@ -13,3 +13,5 @@ function arrayDiff(a = [], b = []) {
 }
 
 console.log(arrayDiff(a,b));
+
+console.log(parseInt.arr1);
